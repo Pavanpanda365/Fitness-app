@@ -1,0 +1,51 @@
+{
+  "users": [
+    {
+      "username": "redux",
+      "password": "redux@123",
+      "id": 1
+    },
+    {
+      "username": "pavan",
+      "email": "pavan@gmail.com",
+      "password": "Pavan@12",
+      "age": "25",
+      "gender": "male",
+      "id": 2,
+      "bmi": 19.81,
+      "health": "Normal",
+      "workouts": [
+        {
+          "bodyPart": "waist",
+          "equipment": "body weight",
+          "gifUrl": "http://d205bpvrqc9yn1.cloudfront.net/0003.gif",
+          "id": "0003",
+          "name": "air bike",
+          "target": "abs"
+        }
+      ]
+    }
+  ],
+  "trainers": [
+    {
+      "username": "redux",
+      "password": "redux@123",
+      "id": 1
+    },
+    {
+      "username": "abhi",
+      "email": "abhi@gmail.com",
+      "password": "Abhi@12",
+      "age": "30",
+      "gender": "male",
+      "id": 2
+    }
+  ],
+  "workout": [
+    {
+      "username": "redux",
+      "password": "calories",
+      "id": 1
+    }
+  ]
+}
